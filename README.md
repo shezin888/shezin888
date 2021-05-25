@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/saleemshezin" target="blank"><img src="https://img.shields.io/twitter/follow/saleemshezin?logo=twitter&style=for-the-badge" alt="saleemshezin" /></a> </p>
 
+I'm Machine Learning Enthusiast and Python Developer. I'm passionate about technologies and love to learn new things.
+
 - 🌱 I’m currently learning **Django, Flutter**
 
 - 📝 I regularly write articles on [https://medium.com/@shezins888](https://medium.com/@shezins888)
