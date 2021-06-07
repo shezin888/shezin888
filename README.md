@@ -9,7 +9,7 @@ I'm Machine Learning Enthusiast and Python Developer. I'm passionate about techn
 
 - 🌱 I’m currently learning **Django, Flutter**
 
-- 📝 I regularly write articles on [https://medium.com/@shezins888](https://medium.com/@shezins888)
+- 📝 I write articles on [https://medium.com/@shezins888](https://medium.com/@shezins888)
 
 - 📫 How to reach me **shezins888@gmail.com**
 
